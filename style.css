@@ -1,0 +1,20 @@
+h1 {
+  color : red;
+  background-color: black;
+  margin:50px;
+  font-size:50px;
+  font-family:Impact;
+  border:20px solid;
+  text-align:center;
+}
+p {
+  color : #03A2600;
+  background-color: #02A390;
+  padding: 50px;
+  font-family:arial;
+}
+b {
+  background-color: blue;
+  border:10px solid;
+  border-color:yellow
+}
